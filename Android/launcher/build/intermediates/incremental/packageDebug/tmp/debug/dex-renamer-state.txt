@@ -1,0 +1,4 @@
+#Sun Apr 11 12:23:01 BRT 2021
+base.0=D\:\\Unity\\Co-op Space\\Android\\launcher\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
