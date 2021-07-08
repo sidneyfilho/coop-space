@@ -1,13 +1,13 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.Experimental.Rendering.Universal;
 
 public class GameManager : MonoBehaviour
 {
     [Header("Rain manager")]
     public ParticleSystem rainParticle;
     public ParticleSystem.EmissionModule emissionModule;
-
 
     // Start is called before the first frame update
     void Start()
@@ -21,7 +21,7 @@ public class GameManager : MonoBehaviour
         
     }
 
-    IEnumerator RainManager(bool isRain)
+    IEnumerator RainManager()
     {
         float total = emissionModule.rateOverTime.constant;
         if(rainParticle.isStopped)
@@ -44,8 +44,9 @@ public class GameManager : MonoBehaviour
         }
     }
 
-    public void OnOffRain(bool isRain)
+    public void OnOffRain()
     {
-        StartCoroutine("RainManager", isRain);
+        StartCoroutine("RainManager");
     }
+
 }

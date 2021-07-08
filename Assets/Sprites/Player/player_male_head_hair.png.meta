@@ -1,0 +1,1577 @@
+fileFormatVersion: 2
+guid: 3b35e8d8aa22f874da7424a6c7c2fda2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3193407153890846753
+    second: player_male_head_hair_0
+  - first:
+      213: -7483873925698596755
+    second: player_male_head_hair_1
+  - first:
+      213: 6105262964784394840
+    second: player_male_head_hair_2
+  - first:
+      213: -2130720202084402396
+    second: player_male_head_hair_3
+  - first:
+      213: 6920770539247043878
+    second: player_male_head_hair_4
+  - first:
+      213: -8394974615980187703
+    second: player_male_head_hair_5
+  - first:
+      213: 7328991455239698577
+    second: player_male_head_hair_6
+  - first:
+      213: -1529014396683096446
+    second: player_male_head_hair_7
+  - first:
+      213: -6470850245437585221
+    second: player_male_head_hair_8
+  - first:
+      213: -8473665695633960802
+    second: player_male_head_hair_9
+  - first:
+      213: -2143298556824826806
+    second: player_male_head_hair_10
+  - first:
+      213: -2295558727512330914
+    second: player_male_head_hair_11
+  - first:
+      213: -3455392464840723066
+    second: player_male_head_hair_12
+  - first:
+      213: 6848171581659158970
+    second: player_male_head_hair_13
+  - first:
+      213: 8858318853104477405
+    second: player_male_head_hair_14
+  - first:
+      213: 1812706927041740592
+    second: player_male_head_hair_15
+  - first:
+      213: -5308465207845663986
+    second: player_male_head_hair_16
+  - first:
+      213: -3424221909414822267
+    second: player_male_head_hair_17
+  - first:
+      213: -7858880142117770500
+    second: player_male_head_hair_18
+  - first:
+      213: 6075672680638315141
+    second: player_male_head_hair_19
+  - first:
+      213: -5366659190029591552
+    second: player_male_head_hair_20
+  - first:
+      213: -2670553892757183114
+    second: player_male_head_hair_21
+  - first:
+      213: -6593306066980615900
+    second: player_male_head_hair_22
+  - first:
+      213: 6090366672352813437
+    second: player_male_head_hair_23
+  - first:
+      213: 8699251515958730260
+    second: player_male_head_hair_24
+  - first:
+      213: 8575924096993415372
+    second: player_male_head_hair_25
+  - first:
+      213: 3250609012513442633
+    second: player_male_head_hair_26
+  - first:
+      213: -6966070520854857274
+    second: player_male_head_hair_27
+  - first:
+      213: -3162442140615152291
+    second: player_male_head_hair_28
+  - first:
+      213: -1400115438702729365
+    second: player_male_head_hair_29
+  - first:
+      213: -50468978107715566
+    second: player_male_head_hair_30
+  - first:
+      213: 3122445445117252004
+    second: player_male_head_hair_31
+  - first:
+      213: 2766819129254004872
+    second: player_male_head_hair_32
+  - first:
+      213: -4952081111988489423
+    second: player_male_head_hair_33
+  - first:
+      213: 2499609354855573051
+    second: player_male_head_hair_34
+  - first:
+      213: -1953997676080950746
+    second: player_male_head_hair_35
+  - first:
+      213: -2501013654548887696
+    second: player_male_head_hair_36
+  - first:
+      213: -1862871901035138722
+    second: player_male_head_hair_37
+  - first:
+      213: -1222536262966435252
+    second: player_male_head_hair_36
+  - first:
+      213: 5340668481288733011
+    second: player_male_head_hair_35
+  - first:
+      213: 3268581757614185265
+    second: player_male_head_hair_40
+  - first:
+      213: -622979303405509990
+    second: player_male_head_hair_41
+  - first:
+      213: -3241390852543003375
+    second: player_male_head_hair_42
+  - first:
+      213: 802908770226177940
+    second: player_male_head_hair_43
+  - first:
+      213: -57219408375910436
+    second: player_male_head_hair_41
+  - first:
+      213: 576508280109072098
+    second: player_male_head_hair_42
+  - first:
+      213: 7974664820017490734
+    second: player_male_head_hair_43
+  - first:
+      213: 552258662880058611
+    second: player_male_head_hair_44
+  - first:
+      213: -5230122692705405900
+    second: player_male_head_hair_48
+  - first:
+      213: -1635224989796568033
+    second: player_male_head_hair_49
+  - first:
+      213: 3111366777855342720
+    second: player_male_head_hair_50
+  - first:
+      213: -4219268209903077399
+    second: player_male_head_hair_51
+  - first:
+      213: 1296315180632434824
+    second: player_male_head_hair_52
+  - first:
+      213: -1373820873286767698
+    second: player_male_head_hair_53
+  - first:
+      213: 2304619351898502875
+    second: player_male_head_hair_54
+  - first:
+      213: -649438130954217706
+    second: player_male_head_hair_55
+  - first:
+      213: -4397748819488085971
+    second: player_male_head_hair_56
+  - first:
+      213: 514946486018105707
+    second: player_male_head_hair_57
+  - first:
+      213: -591866643239137766
+    second: player_male_head_hair_58
+  - first:
+      213: -7066882890369695316
+    second: player_male_head_hair_59
+  - first:
+      213: -9091428052500735740
+    second: player_male_head_hair_60
+  - first:
+      213: -1865411860084733759
+    second: player_male_head_hair_61
+  - first:
+      213: -1851107566165595585
+    second: player_male_head_hair_62
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: player_male_head_hair_0
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 551
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 128ead613e2415c20800000000000000
+      internalID: 3193407153890846753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_male_head_hair_1
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 550
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d605dead050f32890800000000000000
+      internalID: -7483873925698596755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_male_head_hair_2
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 551
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8527254c1504ab450800000000000000
+      internalID: 6105262964784394840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_male_head_hair_3
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 551
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42bb207e3492e62e0800000000000000
+      internalID: -2130720202084402396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_male_head_hair_4
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 551
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6250fcb33248b0060800000000000000
+      internalID: 6920770539247043878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_male_head_hair_5
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 502
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cf5414b01f0f7b80800000000000000
+      internalID: -8394974615980187703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_male_head_hair_6
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 502
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1987f6bd5eec5b560800000000000000
+      internalID: 7328991455239698577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_male_head_hair_7
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 502
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28eee3dd189d7cae0800000000000000
+      internalID: -1529014396683096446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_male_head_hair_8
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 502
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb881fd5cfbe236a0800000000000000
+      internalID: -6470850245437585221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_male_head_hair_9
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 502
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e90135af1fd776a80800000000000000
+      internalID: -8473665695633960802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_male_head_hair_10
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 456
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4c49d871597142e0800000000000000
+      internalID: -2143298556824826806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_male_head_hair_11
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 456
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5d649def798420e0800000000000000
+      internalID: -2295558727512330914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_male_head_hair_12
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 456
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6857b955cdafb00d0800000000000000
+      internalID: -3455392464840723066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_male_head_hair_13
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 457
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab918b535c7990f50800000000000000
+      internalID: 6848171581659158970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_male_head_hair_14
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 457
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd4207240121fea70800000000000000
+      internalID: 8858318853104477405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_male_head_hair_15
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 411
+        width: 13
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03f76349857082910800000000000000
+      internalID: 1812706927041740592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_male_head_hair_16
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 411
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0bc6d7d40b8456b0800000000000000
+      internalID: -5308465207845663986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_male_head_hair_17
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 411
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58e3831d058ba70d0800000000000000
+      internalID: -3424221909414822267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_male_head_hair_18
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 411
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfae2bc1626afe290800000000000000
+      internalID: -7858880142117770500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_male_head_hair_19
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 411
+        width: 13
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58afdfcdc10215450800000000000000
+      internalID: 6075672680638315141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_male_head_hair_20
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 373
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00c53b386ebc585b0800000000000000
+      internalID: -5366659190029591552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_male_head_hair_21
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 373
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 675ebac326940fad0800000000000000
+      internalID: -2670553892757183114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_male_head_hair_22
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 374
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 429413e901fdf74a0800000000000000
+      internalID: -6593306066980615900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_male_head_hair_23
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 373
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d71a7796834558450800000000000000
+      internalID: 6090366672352813437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_male_head_hair_24
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 374
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41e9f74c923f9b870800000000000000
+      internalID: 8699251515958730260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_male_head_hair_25
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 332
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc0510e678dc30770800000000000000
+      internalID: 8575924096993415372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_male_head_hair_26
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 332
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94b0c86acab7c1d20800000000000000
+      internalID: 3250609012513442633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_male_head_hair_27
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 331
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c93024e4cb835f90800000000000000
+      internalID: -6966070520854857274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_male_head_hair_28
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 332
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5d68e1e0afbc14d0800000000000000
+      internalID: -3162442140615152291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_male_head_hair_29
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 332
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6765973d6ac19ce0800000000000000
+      internalID: -1400115438702729365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_male_head_hair_30
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 288
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21076b75bb2bc4ff0800000000000000
+      internalID: -50468978107715566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_male_head_hair_31
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 289
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a110c2c697255b20800000000000000
+      internalID: 3122445445117252004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_male_head_hair_32
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 289
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 888c0fcb657b56620800000000000000
+      internalID: 2766819129254004872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_male_head_hair_33
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 288
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1333105477ca64bb0800000000000000
+      internalID: -4952081111988489423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_male_head_hair_34
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 289
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b36e869f67560b220800000000000000
+      internalID: 2499609354855573051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_male_head_hair_39
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 249
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6229141677102e4e0800000000000000
+      internalID: -1953997676080950746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_male_head_hair_38
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 249
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0774636055d9a4dd0800000000000000
+      internalID: -2501013654548887696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_male_head_hair_37
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 249
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e517ebc30efb526e0800000000000000
+      internalID: -1862871901035138722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_male_head_hair_36
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 250
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c422ad00fbda80fe0800000000000000
+      internalID: -1222536262966435252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_male_head_hair_35
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 250
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 351075a00bddd1a40800000000000000
+      internalID: 5340668481288733011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_male_head_hair_40
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 214
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13b5ae57ac55c5d20800000000000000
+      internalID: 3268581757614185265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_male_head_hair_41
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 215
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdfee715047b43ff0800000000000000
+      internalID: -57219408375910436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_male_head_hair_42
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 216
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2eef8fde93b200800800000000000000
+      internalID: 576508280109072098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_male_head_hair_43
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 213
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2b62f7f663bbae60800000000000000
+      internalID: 7974664820017490734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_male_head_hair_44
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 216
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fc1911f3540aa700800000000000000
+      internalID: 552258662880058611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_male_head_hair_48
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 181
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 434b5911f1fda67b0800000000000000
+      internalID: -5230122692705405900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_male_head_hair_49
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 181
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f14755b19838e49e0800000000000000
+      internalID: -1635224989796568033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_male_head_hair_50
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 181
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 088f408899bcd2b20800000000000000
+      internalID: 3111366777855342720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_male_head_hair_51
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 181
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e7f0a0fae52275c0800000000000000
+      internalID: -4219268209903077399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_male_head_hair_52
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 181
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 888ea82e9cf6df110800000000000000
+      internalID: 1296315180632434824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_male_head_hair_53
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 143
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaba9bec1353fece0800000000000000
+      internalID: -1373820873286767698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_male_head_hair_54
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 142
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd6b6641717abff10800000000000000
+      internalID: 2304619351898502875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_male_head_hair_55
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 144
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61751e4f57bbcf6f0800000000000000
+      internalID: -649438130954217706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_male_head_hair_56
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d28e40bbfbe08f2c0800000000000000
+      internalID: -4397748819488085971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_male_head_hair_57
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 144
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b61e179c915752700800000000000000
+      internalID: 514946486018105707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_male_head_hair_58
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 108
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1e045f7c6449c7f0800000000000000
+      internalID: -591866643239137766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_male_head_hair_59
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 108
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca18a3204736ded90800000000000000
+      internalID: -7066882890369695316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_male_head_hair_60
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 106
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4091cadca52c4d180800000000000000
+      internalID: -9091428052500735740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_male_head_hair_61
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 107
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c849dfebc9bc16e0800000000000000
+      internalID: -1865411860084733759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_male_head_hair_62
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 104
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3a69a5e97b8f46e0800000000000000
+      internalID: -1851107566165595585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

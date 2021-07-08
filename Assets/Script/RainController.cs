@@ -22,7 +22,7 @@ public class RainController : MonoBehaviour
     {
         if(other.gameObject.tag == "Player")
         {
-           _GameManager.OnOffRain(false);
+           _GameManager.OnOffRain();
         }
     }
 }

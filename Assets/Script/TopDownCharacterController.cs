@@ -24,14 +24,7 @@ public class TopDownCharacterController : MonoBehaviour
         vertical = joystick.Vertical != 0 ? joystick.Vertical: Input.GetAxisRaw("Vertical");
 
         direction = new Vector2(horizontal, vertical);
-        animator.SetFloat("Horizontal", horizontal);
-        animator.SetFloat("Vertical", vertical);
-        animator.SetFloat("Magnitude", direction.magnitude);
-
-        if (horizontal != 0 || vertical != 0){
-            animator.SetFloat("LastHorizontal", horizontal);
-            animator.SetFloat("LastVertical", vertical);
-        }  
+        SetAnimator(animator);
     }
 
     private void FixedUpdate()
@@ -41,5 +34,19 @@ public class TopDownCharacterController : MonoBehaviour
 
     private void Move(){
         rigidbody2D.velocity = direction * speed;
+    }
+
+    private void SetAnimator(Animator anim){
+        anim.SetFloat("Horizontal", horizontal);
+        anim.SetFloat("Vertical", vertical);
+        anim.SetFloat("Magnitude", direction.magnitude);
+
+        if (horizontal != 0 || vertical != 0){
+            anim.SetFloat("LastHorizontal", horizontal);
+            anim.SetFloat("LastVertical", vertical);
+            anim.SetBool("IsMove", true);
+        } else {
+            anim.SetBool("IsMove", false);
+        }  
     }
 }
